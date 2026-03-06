@@ -4,7 +4,7 @@
 
 The first phonemically and tonally annotated speech corpus of Yoruba learner pronunciation designed for linguistic research and CAPT development.
 
-A developing speech corpus of Yoruba L2 and heritage learner productions designed to support research on tone acquisition, phonetics/phonology, and computer-assisted pronunciation training (CAPT) for tonal and under-resourced languages.
+A developing speech corpus of Yoruba L2 and heritage learner productions designed to support research on sound and tone acquisition, phonetics/phonology, and computer-assisted pronunciation training (CAPT) for tonal and under-resourced languages.
 
 **Project lead: Kaosarat Aina**, **Indiana University Bloomington**
 
