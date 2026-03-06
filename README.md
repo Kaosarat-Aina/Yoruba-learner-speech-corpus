@@ -1,8 +1,7 @@
 
 # Project Title
 # Yoruba Learner Speech Corpus (YLSC)
-
-The first phonemically and tonally annotated speech corpus of Yoruba learner pronunciation designed for linguistic research and CAPT development.
+_The first phonemically and tonally annotated speech corpus of Yoruba learner pronunciation designed for linguistic research and CAPT development._
 
 A developing speech corpus of Yoruba L2 and heritage learner productions designed to support research on sound and tone acquisition, phonetics/phonology, and computer-assisted pronunciation training (CAPT) for tonal and under-resourced languages.
 
