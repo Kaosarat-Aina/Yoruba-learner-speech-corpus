@@ -8,6 +8,8 @@ A developing speech corpus of Yoruba L2 and heritage learner productions designe
 
 **Project lead: Kaosarat Aina**, **Indiana University Bloomington**
 
+**Contact: kbaina@iu.edu**
+
 # Overview
 The Yoruba Learner Speech Corpus (YLSC) is a developing dataset of speech produced by second-language and heritage learners of Yoruba. The corpus is designed to support research on learner pronunciation, phonological acquisition, and computer-assisted pronunciation training (CAPT) for Yoruba.
 
