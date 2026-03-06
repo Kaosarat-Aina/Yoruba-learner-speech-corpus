@@ -14,14 +14,6 @@ The Yoruba Learner Speech Corpus (YLSC) is a developing dataset of speech produc
 The project aims to create the first phonemically and tonally annotated learner speech corpus for Yoruba. Each recording will be annotated for both segmental pronunciation (consonants and vowels) and lexical tone production, enabling detailed analyses of how learners acquire the sound system of a tonal language.
 
 Beyond linguistic research, the corpus is intended to support the development of automated pronunciation feedback systems capable of identifying and providing feedback on both phonemic and tonal errors in learner speech. The dataset will therefore serve as a resource for research in second language phonology, computational phonetics, and speech technology for under-resourced languages.
-The dataset will support research in:
-  * L2 and heritage tone acquisition
-  * L2 and heritage sound acquisition
-  * Experimental Phonetics and Phonology
-  * Learner speech modeling
-  * Pronunciation assessment
-  * Speech technology for tonal languages
-  * Computer-assisted pronunciation training (CAPT)
 
 # Research Motivation
 Pronunciation is one of the most challenging aspects of second language learning and is closely tied to learners’ confidence and communicative ability. However, many learners study languages outside environments where the language is widely spoken, limiting opportunities for practice and immediate corrective feedback. Computer-assisted pronunciation training (CAPT) systems can help address this gap, but their development depends heavily on annotated learner speech corpora that capture real pronunciation errors.
@@ -114,9 +106,15 @@ The Yoruba Learner Speech Corpus is being developed in stages to support both li
 * Support development of CAPT systems for Yoruba learners
 * Expand corpus with additional learner data
 
-# How to Cite
+# How to cite
 If you use or reference the Yoruba Learner Speech Corpus in your research, please cite the project as follows:
 
 Aina, Kaosarat. (in preparation). Yoruba Learner Speech Corpus (YLSC). Indiana University Bloomington.
 
 Future releases of the corpus will include a versioned dataset citation and DOI to support reproducible research
+
+# Project status
+
+* Data collection: in progress
+* Annotation scheme: draft
+* Pilot dataset release: planned
