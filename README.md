@@ -31,6 +31,8 @@ Learning a second language (L2) is a complex process where speaking proficiency 
 
 * Expert Annotation: Three trained native Yoruba phoneticians provide binary accuracy values (0-1) and specific diagnostic transcriptions across phoneme, tone, and insertion layers.
 
+* For a deep dive into our sampling strategy, phonetic targets, and technical specs, see the [YLSC_Corpus_Design](./YLSC_Corpus_DESIGN.pdf).
+
 # Planned Corpus Structure
 
 The repository is organized to facilitate easy integration with machine learning pipelines:
