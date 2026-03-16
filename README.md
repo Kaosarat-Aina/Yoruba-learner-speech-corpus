@@ -18,7 +18,7 @@ Learning a second language (L2) is a complex process where speaking proficiency 
 * **Tonal Complexity**: Yoruba's three-way tonal contrast (High, Mid, and Low) presents a steep challenge for L2 learners, particularly those from non-tonal L1 backgrounds.
 * **Segmental Challenges**: Beyond tones, learners often struggle with unique Yoruba phonemes, such as co-articulated labial-velar stops ([ɡb], [kp]) and the Advanced Tongue Root (±ATR) vowel harmony system.
 * **Native vs. Learner Data**: Existing Yoruba corpora are designed for native speech, lacking the specific phonological errors—such as vowel harmony violations or tonal misassignments—inherent to learners.
-* **Diagnostic Gaps**: Current research requires error-annotated corpora to move beyond simple "pass/fail" error detection to precise phonetic diagnosis.
+* **Diagnostic Gaps**: Current research requires error-annotated corpora to move beyond simple "pass/fail" error detection to precise phonetic diagnosis. 
 
 
 # Corpus Design
@@ -29,7 +29,7 @@ Learning a second language (L2) is a complex process where speaking proficiency 
   * Segmentals: Challenging consonants ([ɡb], [kp], [p]) and ATR vowel contrasts.
   * Syntax: Diverse structures including questions and imperatives.
 
-* Expert Annotation: Three trained native Yoruba phoneticians provide binary accuracy values (0-1) and specific diagnostic transcriptions across phoneme, tone, and insertion layers.
+* Expert Annotation: Three trained native Yoruba phoneticians provide binary accuracy values (0-1) and specific diagnostic transcriptions across phoneme, tone, and insertion layers. This expert phonetic diagnostics using a Target vs. Realized mapping allows the corpus to move beyond binary error detection to capture precise pitch deviations and phonetic substitutions.
 
 * For a deep dive into our sampling strategy, phonetic targets, and technical specs, see the [YLSC_Corpus_Design](./docs/YLSC_Corpus_Design_and_Methodology.pdf).
 
